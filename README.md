@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of Webpage](./blog_preview_screenshot.jpg)
+![Screenshot of Webpage](blog_preview_screenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://your-solution-url.com](https://github.com/Jadesola2/fm-blog-preview-card-main)
+- Live Site URL: [https://jadesola2.github.io/fm-blog-preview-card-main/](https://jadesola2.github.io/fm-blog-preview-card-main/)
 
 ## My process
 
