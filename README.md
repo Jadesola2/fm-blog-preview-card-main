@@ -61,4 +61,4 @@ For future projects, I hope to use the features learned in this project to imple
 
 I would like to thank my mentor [Emmanuel]
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
