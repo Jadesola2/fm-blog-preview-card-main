@@ -1,0 +1,123 @@
+@font-face{
+    src:url(assets/fonts/Figtree-Italic-VariableFont_wght.ttf) format(truetype);
+    font-family:'figtree'
+}
+@font-face{
+    src:url(assets/fonts/static/Figtree-ExtraBold.ttf) format(truetype);
+    font-family:'figtreet'
+}
+
+
+@font-face {
+    src:url(assets/fonts/Figtree-VariableFont_wght.ttf) format(truetype);
+    font-family:'figtreef'
+}
+
+
+body{
+    width:fit-content;
+    background-color: hsl(47, 88%, 63%);
+}
+
+
+.container{
+    height: 100vh;
+    position: relative;
+}
+
+
+.img{
+    display: inline;
+    text-align: center; 
+    border: 1.8px solid white;
+    border-radius: 15px;
+    margin: 25px;
+    box-sizing: border-box;
+}
+
+
+.tag3{
+    font-weight: bold;
+    margin:55px;
+    font-size:15px ;
+    font-family: figtreet;
+    position: relative;
+    top: -35px
+}
+
+
+.icon{
+    padding-bottom: 10px;
+    transform: scale(0.5);
+    float: left;
+    position: relative;
+    top: -40px
+}
+
+
+.box{
+    background-color: white;
+    width:390px ;
+    height: 550px;
+    display: flow-root;
+    border: 1.8px solid black;
+    border-radius: 15px;
+    box-shadow: 8px 8px black;
+    justify-self: center;
+    position: fixed ;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%)scale(0.8) ;
+}
+
+
+.tag{
+    background-color: hsl(47, 88%, 63%);
+    font-weight: bolder;
+    margin: 30px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    position: relative;
+    top: -40px;
+    font-family: figtreet;
+}
+
+
+.tag4{
+    margin: 30px;
+    border: none;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: -50px;
+    color: rgb(145, 124, 124);
+}
+
+
+.tag1{
+    margin: 30px;
+    border: none;
+    font-size: smaller;
+    font-family: figtreef;
+    position: relative;
+    top: -55px;
+}
+
+
+.tag2{
+    margin: 30px;
+    border: none;
+    font-weight: bolder;
+    font-size: 23px;
+    font-family: figtreet;
+    position: relative;
+    top: -40px;
+}
+
+
+.tag2:active{
+    color: hsl(47, 88%, 63%);
+    cursor:pointer;
+}
