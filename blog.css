@@ -1,15 +1,15 @@
 @font-face{
-    src:url(assets/fonts/Figtree-Italic-VariableFont_wght.ttf) format(truetype);
+    src:url(assets/fonts/Figtree-Italic-VariableFont_wght.ttf) format("truetype");
     font-family:'figtree'
 }
 @font-face{
-    src:url(assets/fonts/static/Figtree-ExtraBold.ttf) format(truetype);
+    src:url(assets/fonts/static/Figtree-ExtraBold.ttf) format("truetype");
     font-family:'figtreet'
 }
 
 
 @font-face {
-    src:url(assets/fonts/Figtree-VariableFont_wght.ttf) format(truetype);
+    src:url(assets/fonts/Figtree-VariableFont_wght.ttf) format("truetype");
     font-family:'figtreef'
 }
 
@@ -117,7 +117,7 @@ body{
 }
 
 
-.tag2:active{
+.tag2:hover{
     color: hsl(47, 88%, 63%);
     cursor:pointer;
 }
