@@ -59,6 +59,6 @@ For future projects, I hope to use the features learned in this project to imple
 
 ## Acknowledgments
 
-I would like to thank my mentor [Emmanuel]
+I would like to thank my mentor [Emmanuel](linkedin.com/in/emmanuel-makanjuola-56bb2b297)
 
 
